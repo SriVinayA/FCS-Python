@@ -1,0 +1,12 @@
+map - map is function which is used to store the output of the whole list when iterated through a function without any actual iteration happened
+
+LEGB Rule : 
+---------
+
+
+tic tac toe
+-----------
+9 blocks 
+2 players , 2 markers
+each player consecutive
+who will play first
